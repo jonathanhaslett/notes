@@ -1,4 +1,4 @@
-#HTML 5 Beyond the markup
+#HTML5 - Beyond the markup - @johnallsopp
 
 ##HTML5 core concepts and syntax
 
